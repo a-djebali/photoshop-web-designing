@@ -1,10 +1,10 @@
 # Photoshop web designing
 <!--index-->
-<ul>
-  <ol><a href="#psd1">Simple navbar</a></ol>
-  <ol><a href="#psd2">Simple navbar</a></ol>
-  <ol><a href="#psd3">Simple navbar</a></ol>
-</ul>
+<ol>
+  <li><h4><a href="#psd1">Simple navbar</a></h4></li>
+  <li><h4><a href="#psd2">Simple navbar</a></h4></li>
+  <li><h4><a href="#psd3">Simple navbar</a></h4></li>
+</ol>
 <!--content-->
 # Demos
 <h3 id="psd1">Simple navbar</h3>
